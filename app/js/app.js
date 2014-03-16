@@ -1,6 +1,6 @@
 ﻿function butCalc_onclick()
 {  
-	alert("Start of function"); 
+	alert("butCalc_onclick");
     var x = document.getElementById("txtVal1");
 	var y = document.getElementById("txtVal2");
     if (x.value == "") 
